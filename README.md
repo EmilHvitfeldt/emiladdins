@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/EmilHvitfeldt/ehhaddins.svg?branch=master)](https://travis-ci.org/EmilHvitfeldt/ehhaddins)
 <!-- badges: end -->
 
 The goal of ehhaddins is to host various personal addins.
