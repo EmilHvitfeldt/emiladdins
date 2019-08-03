@@ -1,0 +1,5 @@
+Name: Find TODO's in package
+Description: Gives location of all TODO's in package
+Binding: find_todo
+Interactive: false
+
