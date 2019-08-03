@@ -23,6 +23,13 @@ devtools::install_github("EmilHvitfeldt/ehhaddins")
 
   - `find_todo` Will find and list all instances of the word “TODO”
     inside a project.
+  - `wrap_roxygen` Wraps selected line to fit inside 80 character width.
+
+## Demo gifs
+
+### wrap\_roxygen
+
+![](gifs/wrap_roxygen.gif)
 
 ## Code of Conduct
 

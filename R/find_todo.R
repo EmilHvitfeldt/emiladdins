@@ -1,3 +1,5 @@
+#' Will find and list all instances of the word "TODO" inside a project.
+#'
 #' @export
 #' @importFrom glue glue
 find_todo <- function() {

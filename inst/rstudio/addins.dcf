@@ -3,3 +3,8 @@ Description: Gives location of all TODO's in package
 Binding: find_todo
 Interactive: false
 
+Name: Wraps text in roxygen
+Description: wraps text in the line the cursor is placed
+Binding: wrap_roxygen
+Interactive: false
+
