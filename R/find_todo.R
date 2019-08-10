@@ -10,9 +10,8 @@ find_todo <- function() {
     which_lines <- which(grepl("TODO", lines))
     if(length(which_lines) > 0) {
       counter <- TRUE
-      cat(glue("\033[32m{file}\033[39m"))
-      cat(glue("\033[35mLine {which_lines}:\033[39m {lines[which_lines]}\n"))
-      cat("\n\n")
+      print(glue("\033[32m{file}\033[39m\n"))
+      print(glue("\033[35mLine {which_lines}:\033[39m {lines[which_lines]}\n"))
     }
   }
   if (counter) cat("No TODO's found!")
