@@ -8,3 +8,8 @@ Description: wraps text in the line the cursor is placed
 Binding: wrap_roxygen
 Interactive: false
 
+Name: Turn text to slugs
+Description: Replaces text with slug friendly text.
+Binding: slugify
+Interactive: false
+
