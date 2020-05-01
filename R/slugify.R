@@ -5,7 +5,7 @@
 #' @export
 slugify <- function() {
 
-  ctx <<- rstudioapi::getActiveDocumentContext()
+  ctx <- rstudioapi::getActiveDocumentContext()
 
   if (!is.null(ctx)) {
     selected_text <- ctx$selection[[1]]$text

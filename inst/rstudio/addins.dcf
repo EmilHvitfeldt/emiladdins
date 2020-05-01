@@ -13,3 +13,18 @@ Description: Replaces text with slug friendly text.
 Binding: slugify
 Interactive: false
 
+Name: Create cross reference
+Description:  Create cross reference
+Binding: cross_ref
+Interactive: false
+
+Name: Create Twittter Link
+Description: Create Twittter Link
+Binding: twitter_link
+Interactive: false
+
+Name: Add Benderrule footnote
+Description: Add Benderrule footnote
+Binding: bender_rule
+Interactive: false
+
