@@ -28,3 +28,8 @@ Description: Add Benderrule footnote
 Binding: bender_rule
 Interactive: false
 
+Name: Add decorate flair chunk
+Description: Add decorate flair chunk
+Binding: flair_chunk
+Interactive: false
+
