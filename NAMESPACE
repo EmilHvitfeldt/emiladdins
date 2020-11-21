@@ -2,6 +2,7 @@
 
 export(bender_rule)
 export(cross_ref)
+export(delete_comments)
 export(find_todo)
 export(slugify)
 export(twitter_link)

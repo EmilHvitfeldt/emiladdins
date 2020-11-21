@@ -33,3 +33,8 @@ Description: Add decorate flair chunk
 Binding: flair_chunk
 Interactive: false
 
+Name: Delete Comments in Selection
+Description: elete Comments in Selection
+Binding: delete_comments
+Interactive: false
+
