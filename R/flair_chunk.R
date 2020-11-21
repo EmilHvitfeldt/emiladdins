@@ -47,6 +47,15 @@ add_flair_chunk  <- function(x) {
     glue::glue('decorate("{chunk_name}")'),
     '```'
   )
+
+  chunk_params <- chunk_params[!stringr::str_detect(chunk_params, "include")]
+
+  chunk_params <- c(chunk_params, "include = FALSE")
+
+  x[which(header_loc)[1]] <- paste0("```{r ",
+                                    paste(chunk_params, collapse = ", "),
+                                    "}")
+
   res <- c(
     x[seq(1, which(end_loc)[1])],
     flair_chunk
