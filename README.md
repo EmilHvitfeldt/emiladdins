@@ -1,15 +1,15 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# ehhaddins
+# emiladdins
 
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.org/EmilHvitfeldt/ehhaddins.svg?branch=master)](https://travis-ci.org/EmilHvitfeldt/ehhaddins)
+status](https://travis-ci.org/EmilHvitfeldt/emiladdins.svg?branch=master)](https://travis-ci.org/EmilHvitfeldt/emiladdins)
 <!-- badges: end -->
 
-The goal of ehhaddins is to host various personal addins.
+The goal of emiladdins is to host various personal addins.
 
 ## Installation
 
@@ -18,7 +18,7 @@ You can install the the development version from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("EmilHvitfeldt/ehhaddins")
+devtools::install_github("EmilHvitfeldt/emiladdins")
 ```
 
 ## Addins
@@ -40,6 +40,6 @@ devtools::install_github("EmilHvitfeldt/ehhaddins")
 
 ## Code of Conduct
 
-Please note that the ‘ehhaddins’ project is released with a [Contributor
+Please note that the ‘emiladdins’ project is released with a [Contributor
 Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project,
 you agree to abide by its terms.
