@@ -4,6 +4,8 @@
 # emiladdins
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/EmilHvitfeldt/ehhaddins/workflows/R-CMD-check/badge.svg)](https://github.com/EmilHvitfeldt/ehhaddins/actions)
 <!-- badges: end -->
 
 The goal of emiladdins is to host various personal addins.
