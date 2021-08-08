@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/EmilHvitfeldt/ehhaddins/workflows/R-CMD-check/badge.svg)](https://github.com/EmilHvitfeldt/ehhaddins/actions)
+[![emilverse](https://img.shields.io/badge/emilverse-packages-blue.svg)](http://github.com/emilhvitfeldt/emilverse)
 <!-- badges: end -->
 
 The goal of emiladdins is to host various personal addins.
