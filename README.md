@@ -28,6 +28,8 @@ devtools::install_github("EmilHvitfeldt/emiladdins")
 -   `find_todo` Will find and list all instances of the word “TODO”
     inside a project.
 -   `twitter_link` Inserts formatted twitter link from clipboard.
+-   `tidy_importfrom` takes all @importFrom statements and organizes
+    them.
 
 ## Demo gifs
 
@@ -50,6 +52,10 @@ devtools::install_github("EmilHvitfeldt/emiladdins")
 ### twitter_link
 
 ![](gifs/twitter_link.gif)
+
+### tidy_importfrom
+
+![](gifs/tidy_importfrom.gif)
 
 ## Code of Conduct
 

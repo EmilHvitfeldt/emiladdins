@@ -13,7 +13,9 @@ Imports:
     glue,
     stringr,
     rstudioapi,
-    clipr
+    clipr,
+    fs,
+    purrr
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1.9001

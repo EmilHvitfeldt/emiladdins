@@ -23,3 +23,7 @@ Description: elete Comments in Selection
 Binding: delete_comments
 Interactive: false
 
+Name: Clean ImportFrom calls
+Description: Clean ImportFrom calls
+Binding: tidy_importfrom
+Interactive: false

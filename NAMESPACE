@@ -3,6 +3,7 @@
 export(bender_rule)
 export(delete_comments)
 export(find_todo)
+export(tidy_importfrom)
 export(twitter_link)
 export(wrap_roxygen)
 importFrom(glue,glue)
