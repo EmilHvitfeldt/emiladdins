@@ -15,7 +15,6 @@ knitr::opts_chunk$set(
 # emiladdins
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/EmilHvitfeldt/emiladdins.svg?branch=master)](https://travis-ci.org/EmilHvitfeldt/emiladdins)
 <!-- badges: end -->
 
 The goal of emiladdins is to host various personal addins.
@@ -31,9 +30,11 @@ devtools::install_github("EmilHvitfeldt/emiladdins")
 
 ## Addins
 
-- `find_todo` Will find and list all instances of the word "TODO" inside a project.
 - `wrap_roxygen` Wraps selected line to fit inside 80 character width.
 - `delete_comments` Deletes comments in selection.
+- `bender_rule` Inserts #benderrule footnote.
+- `find_todo` Will find and list all instances of the word "TODO" inside a project.
+- `twitter_link` Inserts formatted twitter link from clipboard.
 
 ## Demo gifs
 
@@ -44,6 +45,18 @@ devtools::install_github("EmilHvitfeldt/emiladdins")
 ### delete_comments
 
 ![](gifs/delete_comments.gif)
+
+### bender_rule
+
+![](gifs/bender_rule.gif)
+
+### find_todo
+
+![](gifs/find_todo.gif)
+
+### twitter_link
+
+![](gifs/twitter_link.gif)
 
 ## Code of Conduct
 

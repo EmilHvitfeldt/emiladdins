@@ -8,29 +8,14 @@ Description: wraps text in the line the cursor is placed
 Binding: wrap_roxygen
 Interactive: false
 
-Name: Turn text to slugs
-Description: Replaces text with slug friendly text.
-Binding: slugify
-Interactive: false
-
-Name: Create cross reference
-Description:  Create cross reference
-Binding: cross_ref
-Interactive: false
-
-Name: Create Twittter Link
-Description: Create Twittter Link
+Name: Insert Twittter Link
+Description: Insert Twittter Link from clipboard
 Binding: twitter_link
 Interactive: false
 
-Name: Add Benderrule footnote
-Description: Add Benderrule footnote
+Name: Insert Benderrule footnote
+Description: Insert Benderrule footnote
 Binding: bender_rule
-Interactive: false
-
-Name: Add decorate flair chunk
-Description: Add decorate flair chunk
-Binding: flair_chunk
 Interactive: false
 
 Name: Delete Comments in Selection
